@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.grupo11.Movie_App.MovieAppApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 38.99 s -- in com.grupo11.Movie_App.MovieAppApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 59.22 s -- in com.grupo11.Movie_App.MovieAppApplicationTests
