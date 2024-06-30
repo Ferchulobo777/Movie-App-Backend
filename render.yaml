@@ -1,0 +1,30 @@
+services:
+  - name: movie-app
+    dockerfile: Movie-App/Dockerfile
+    envVars:
+      - key: SPRING_DATASOURCE_URL
+        from_secret: false
+        value: jdbc:postgresql://postgres:5432/movie_app_db
+      - key: SPRING_DATASOURCE_USERNAME
+        from_secret: false
+        value: postgres
+      - key: SPRING_DATASOURCE_PASSWORD
+        from_secret: false
+        value: root
+    plan: starter
+    env: docker
+
+  - name: postgres
+    dockerfile: Movie-App/Dockerfile
+    envVars:
+      - key: POSTGRES_DB
+        from_secret: false
+        value: movie_app_db
+      - key: POSTGRES_USER
+        from_secret: false
+        value: postgres
+      - key: POSTGRES_PASSWORD
+        from_secret: false
+        value: root
+    plan: starter
+    env: docker
