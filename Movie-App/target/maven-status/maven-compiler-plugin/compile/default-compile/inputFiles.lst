@@ -1,0 +1,16 @@
+C:\Users\Notebook\Desktop\Movie-App\src\main\java\com\grupo11\Movie_App\controller\AuthController.java
+C:\Users\Notebook\Desktop\Movie-App\src\main\java\com\grupo11\Movie_App\controller\DirectorController.java
+C:\Users\Notebook\Desktop\Movie-App\src\main\java\com\grupo11\Movie_App\controller\MovieController.java
+C:\Users\Notebook\Desktop\Movie-App\src\main\java\com\grupo11\Movie_App\controller\UserController.java
+C:\Users\Notebook\Desktop\Movie-App\src\main\java\com\grupo11\Movie_App\model\Director.java
+C:\Users\Notebook\Desktop\Movie-App\src\main\java\com\grupo11\Movie_App\model\Movie.java
+C:\Users\Notebook\Desktop\Movie-App\src\main\java\com\grupo11\Movie_App\model\User.java
+C:\Users\Notebook\Desktop\Movie-App\src\main\java\com\grupo11\Movie_App\MovieAppApplication.java
+C:\Users\Notebook\Desktop\Movie-App\src\main\java\com\grupo11\Movie_App\repository\DirectorRepository.java
+C:\Users\Notebook\Desktop\Movie-App\src\main\java\com\grupo11\Movie_App\repository\MovieRepository.java
+C:\Users\Notebook\Desktop\Movie-App\src\main\java\com\grupo11\Movie_App\repository\UserRepository.java
+C:\Users\Notebook\Desktop\Movie-App\src\main\java\com\grupo11\Movie_App\service\AuthService.java
+C:\Users\Notebook\Desktop\Movie-App\src\main\java\com\grupo11\Movie_App\service\DirectorService.java
+C:\Users\Notebook\Desktop\Movie-App\src\main\java\com\grupo11\Movie_App\service\MovieService.java
+C:\Users\Notebook\Desktop\Movie-App\src\main\java\com\grupo11\Movie_App\service\UserService.java
+C:\Users\Notebook\Desktop\Movie-App\src\main\java\com\grupo11\Movie_App\utils\JWTUtil.java
