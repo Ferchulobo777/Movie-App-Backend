@@ -1,30 +1,27 @@
-services:
-  - name: movie-app
-    dockerfile: Movie-App/Dockerfile
-    envVars:
-      - key: SPRING_DATASOURCE_URL
-        from_secret: false
-        value: jdbc:postgresql://postgres:5432/movie_app_db
-      - key: SPRING_DATASOURCE_USERNAME
-        from_secret: false
-        value: postgres
-      - key: SPRING_DATASOURCE_PASSWORD
-        from_secret: false
-        value: root
-    plan: starter
-    env: docker
+version: '3.8'
 
-  - name: postgres
-    dockerfile: Movie-App/Dockerfile
-    envVars:
-      - key: POSTGRES_DB
-        from_secret: false
-        value: movie_app_db
-      - key: POSTGRES_USER
-        from_secret: false
-        value: postgres
-      - key: POSTGRES_PASSWORD
-        from_secret: false
-        value: root
-    plan: starter
-    env: docker
+services:
+  movie-app:
+    build:
+      context: .
+      dockerfile: Movie-App/Dockerfile
+    ports:
+      - "8080:8080"
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:postgresql://postgres:5432/movie_app_db
+      SPRING_DATASOURCE_USERNAME: postgres
+      SPRING_DATASOURCE_PASSWORD: root
+      JWT_SECRET: mySuperSecretKey
+      JWT_ISSUER: Main
+      JWT_TTL: 3600000
+    depends_on:
+      - postgres
+
+  postgres:
+    image: postgres:latest
+    environment:
+      POSTGRES_DB: movie_app_db
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: root
+    ports:
+      - "5432:5432"

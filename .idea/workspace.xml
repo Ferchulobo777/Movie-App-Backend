@@ -5,17 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="686dc4e7-62c0-40d9-9cc8-a2d713ba4935" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movie-App/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Movie-App/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movie-App/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Movie-App/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Movie-App/target/Movie-App-0.0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Movie-App/target/Movie-App-0.0.1.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Movie-App/target/Movie-App-0.0.1.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/Movie-App/target/Movie-App-0.0.1.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movie-App/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Movie-App/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movie-App/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Movie-App/target/surefire-reports/TEST-com.grupo11.Movie_App.MovieAppApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Movie-App/target/surefire-reports/TEST-com.grupo11.Movie_App.MovieAppApplicationTests.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Movie-App/target/surefire-reports/com.grupo11.Movie_App.MovieAppApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Movie-App/target/surefire-reports/com.grupo11.Movie_App.MovieAppApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/render.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/render.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,24 +26,24 @@
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2icIIfc418ZEbF1Vs7WP22DzUbP" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven.Movie-App [clean].executor": "Run",
-    "Maven.Movie-App [install].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Notebook/Desktop/Movie-App/Movie-App"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.Movie-App [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Movie-App [install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Notebook/Desktop/Movie-App/Movie-App&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
