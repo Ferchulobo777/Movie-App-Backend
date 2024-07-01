@@ -100,6 +100,7 @@ La aplicación estará disponible en `http://localhost:8080`.
 
 -<p align="center">
   <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719801444/Logos/java-original_k3fcqr.svg" alt="Java_logo" width="50"/>
+  <br>
   Java
 </p>
 - Spring Boot
