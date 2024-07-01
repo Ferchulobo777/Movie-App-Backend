@@ -95,6 +95,7 @@ docker-compose up
 La aplicación estará disponible en `http://localhost:8080`.
 
 ---
+
 ## Tecnologías Utilizadas
 
 <p  align="center" style="letter-spacing:60px">
@@ -123,6 +124,7 @@ Docker
 <p align="left" style="margin-left:575px; margin-top:-40px">
 Compose
 </p>
+
 ---
 
 ## Endpoints
