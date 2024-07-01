@@ -50,7 +50,7 @@ Para instalar y ejecutar esta aplicación localmente, sigue los siguientes pasos
     ```
 ## Configuración
 
-### application.properties
+## application.properties
 
 Configura las propiedades de la aplicación en `src/main/resources/application.properties`:
 
@@ -66,8 +66,6 @@ spring.jpa.hibernate.ddl-auto=update
 security.jwt.secret=${JWT_SECRET}
 security.jwt.issuer=${JWT_ISSUER}
 security.jwt.ttlMillis=${JWT_TTL}
-
----
 
 ## Tecnologías Utilizadas
 - Java
