@@ -96,30 +96,44 @@ La aplicación estará disponible en `http://localhost:8080`.
 
 ---
 
-## Tecnologías Utilizadas
+<div>
+  <div style="text-align: center; margin: 20px;">
+    <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719801444/Logos/java-original_k3fcqr.svg" alt="Java_logo" width="50"/>
+    <br>
+    Java
+  </div>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719801444/Logos/java-original_k3fcqr.svg" alt="Java_logo" width="50"/><br> Java
-    </td>
-    <td align="center">
-      <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719801294/Logos/SpringBoot_e3st46.png" alt="Spring_Boot_logo" width="50"/><br> Spring Boot
-    </td>
-    <td align="center">
-      <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719801318/Logos/postgresql-original_gpliwp.svg" alt="PostgreSQL_logo" width="50"/><br> PostgreSQL
-    </td>
-    <td align="center">
-      <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719802197/Logos/icons8-json-web-token_wy95ni.svg" alt="JWT_logo" width="50"/><br> JWT (JSON Web Tokens)
-    </td>
-    <td align="center">
-      <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719802560/Logos/docker-logo-svgrepo-com_ibjz5d.svg" alt="Docker_logo" width="50"/><br> Docker
-    </td>
-    <td align="center">
-      <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719802624/Logos/logo_owmjfh.png" alt="Docker_compose_logo" width="50"/><br> Docker Compose
-    </td>
-  </tr>
-</table>
+  <div style="text-align: center; margin: 20px;">
+    <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719801294/Logos/SpringBoot_e3st46.png" alt="Spring_Boot_logo" width="50"/>
+    <br>
+    Spring Boot
+  </div>
+
+  <div style="text-align: center; margin: 20px;">
+    <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719801318/Logos/postgresql-original_gpliwp.svg" alt="PostgreSQL_logo" width="50"/>
+    <br>
+    PostgreSQL
+  </div>
+
+  <div style="text-align: center; margin: 20px;">
+    <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719802197/Logos/icons8-json-web-token_wy95ni.svg" alt="JWT_logo" width="50"/>
+    <br>
+    JWT (JSON Web Tokens)
+  </div>
+
+  <div style="text-align: center; margin: 20px;">
+    <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719802560/Logos/docker-logo-svgrepo-com_ibjz5d.svg" alt="Docker_logo" width="50"/>
+    <br>
+    Docker
+  </div>
+
+  <div style="text-align: center; margin: 20px;">
+    <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719802624/Logos/logo_owmjfh.png" alt="Docker_compose_logo" width="50"/>
+    <br>
+    Docker Compose
+  </div>
+</div>
+
 ---
 
 ## Endpoints
