@@ -99,7 +99,7 @@ La aplicación estará disponible en `http://localhost:8080`.
 ## Tecnologías Utilizadas
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719801444/Logos/java-original_k3fcqr.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719801444/Logos/java-original_k3fcqr.svg" title="Java" alt="Java" width="50" height="50"/><br>Java;
   <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719801294/Logos/SpringBoot_e3st46.png" title="Spring Boot" alt="Spring Boot" width="50" height="50"/>&nbsp;
   <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719801318/Logos/postgresql-original_gpliwp.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
   <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719802197/Logos/icons8-json-web-token_wy95ni.svg" title="JWT (JSON Web Tokens)" alt="JWT (JSON Web Tokens)" width="50" height="50"/>&nbsp;
