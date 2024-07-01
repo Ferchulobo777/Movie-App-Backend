@@ -61,8 +61,9 @@ spring.datasource.username=${DATABASE_USERNAME}
 spring.datasource.password=${DATABASE_PASSWORD}
 spring.datasource.driver-class-name=org.postgresql.Driver
 
-spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
+spring.jpa.database=POSTGRESQL
 spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
 
 security.jwt.secret=${JWT_SECRET}
 security.jwt.issuer=${JWT_ISSUER}
@@ -77,6 +78,54 @@ security.jwt.ttlMillis=${JWT_TTL}
 - PostgreSQL
 - JWT (JSON Web Tokens)
 - Docker y Docker Compose
+
+---
+
+## Uso
+
+Para iniciar la aplicación, asegúrate de tener configurado el entorno y luego ejecuta:
+
+```
+docker-compose up
+
+```
+La aplicación estará disponible en `http://localhost:8080`.
+
+---
+
+## Tecnologías Utilizadas
+- Java
+- Spring Boot
+- PostgreSQL
+- JWT (JSON Web Tokens)
+- Docker y Docker Compose
+
+---
+
+##Endpoints
+
+Aquí hay una lista de los endpoints disponibles:
+
+Películas:
+
+-GET /api/movies: Obtener todas las películas
+-GET /api/movies/{id}: Obtener una película por ID
+-POST /api/movies: Crear una nueva película
+-PUT /api/movies/{id}: Actualizar una película existente
+-DELETE /api/movies/{id}: Eliminar una película
+
+Directores:
+
+-GET /api/directors: Obtener todos los directores
+-GET /api/directors/{id}: Obtener un director por ID
+-POST /api/directors: Crear un nuevo director
+-PUT /api/directors/{id}: Actualizar un director existente
+-DELETE /api/directors/{id}: Eliminar un director
+
+Autenticación:
+
+-POST /api/auth/register: Registrar un nuevo usuario
+-POST /api/auth/login: Iniciar sesión y obtener un token JWT
 
 ---
 
