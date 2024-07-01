@@ -106,12 +106,12 @@ La aplicación estará disponible en `http://localhost:8080`.
 - Docker Compose
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719801444/Logos/java-original_k3fcqr.svg" title="Java" alt="Java" width="50" height="50" style="margin: 0 15px;"/>
-  <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719801294/Logos/SpringBoot_e3st46.png" title="Spring Boot" alt="Spring Boot" width="50" height="50" style="margin: 0 15px;"/>
-  <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719801318/Logos/postgresql-original_gpliwp.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50" style="margin: 0 15px;"/>
-  <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719802197/Logos/icons8-json-web-token_wy95ni.svg" title="JWT (JSON Web Tokens)" alt="JWT (JSON Web Tokens)" width="50" height="50" style="margin: 0 15px;"/>
-  <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719802560/Logos/docker-logo-svgrepo-com_ibjz5d.svg" title="Docker" alt="Docker" width="50" height="50" style="margin: 0 15px;"/>
-  <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719802624/Logos/logo_owmjfh.png" title="Docker Compose" alt="Docker Compose" width="50" height="50" style="margin: 0 15px;"/>
+  <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719801444/Logos/java-original_k3fcqr.svg" title="Java" alt="Java" width="50" height="50" style="margin: 0 30px;"/>
+  <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719801294/Logos/SpringBoot_e3st46.png" title="Spring Boot" alt="Spring Boot" width="50" height="50" style="margin: 0 30px;"/>
+  <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719801318/Logos/postgresql-original_gpliwp.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50" style="margin: 0 30px;"/>
+  <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719802197/Logos/icons8-json-web-token_wy95ni.svg" title="JWT (JSON Web Tokens)" alt="JWT (JSON Web Tokens)" width="50" height="50" style="margin: 0 30px;"/>
+  <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719802560/Logos/docker-logo-svgrepo-com_ibjz5d.svg" title="Docker" alt="Docker" width="50" height="50" style="margin: 0 30px;"/>
+  <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719802624/Logos/logo_owmjfh.png" title="Docker Compose" alt="Docker Compose" width="50" height="50" style="margin: 0 30px;"/>
 </p>
 
 ---
