@@ -40,7 +40,6 @@ Para instalar y ejecutar esta aplicación localmente, sigue los siguientes pasos
     git clone https://github.com/tuusuario/Movie-App.git
     cd Movie-App
     ```
-
 2. **Configura el entorno:**
     - Crea un archivo `.env` en la raíz del proyecto con las variables de entorno necesarias para PostgreSQL y JWT.
     - Asegúrate de tener Docker y Docker Compose instalados.
@@ -68,9 +67,7 @@ security.jwt.secret=${JWT_SECRET}
 security.jwt.issuer=${JWT_ISSUER}
 security.jwt.ttlMillis=${JWT_TTL}
 
-
 ---
-
 
 ## Tecnologías Utilizadas
 - Java
@@ -78,7 +75,6 @@ security.jwt.ttlMillis=${JWT_TTL}
 - PostgreSQL
 - JWT (JSON Web Tokens)
 - Docker y Docker Compose
-
 
 ---
 
