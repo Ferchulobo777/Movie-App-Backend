@@ -102,30 +102,30 @@ La aplicación estará disponible en `http://localhost:8080`.
 
 ---
 
-##Endpoints
+## Endpoints
 
 Aquí hay una lista de los endpoints disponibles:
 
-Películas:
+### Películas:
 
--GET /api/movies: Obtener todas las películas
--GET /api/movies/{id}: Obtener una película por ID
--POST /api/movies: Crear una nueva película
--PUT /api/movies/{id}: Actualizar una película existente
--DELETE /api/movies/{id}: Eliminar una película
+- GET /api/movies: Obtener todas las películas
+- GET /api/movies/{id}: Obtener una película por ID
+- POST /api/movies: Crear una nueva película
+- PUT /api/movies/{id}: Actualizar una película existente
+- DELETE /api/movies/{id}: Eliminar una película
 
-Directores:
+### Directores:
 
--GET /api/directors: Obtener todos los directores
--GET /api/directors/{id}: Obtener un director por ID
--POST /api/directors: Crear un nuevo director
--PUT /api/directors/{id}: Actualizar un director existente
--DELETE /api/directors/{id}: Eliminar un director
+- GET /api/directors: Obtener todos los directores
+- GET /api/directors/{id}: Obtener un director por ID
+- POST /api/directors: Crear un nuevo director
+- PUT /api/directors/{id}: Actualizar un director existente
+- DELETE /api/directors/{id}: Eliminar un director
 
-Autenticación:
+### Autenticación:
 
--POST /api/auth/register: Registrar un nuevo usuario
--POST /api/auth/login: Iniciar sesión y obtener un token JWT
+- POST /api/auth/register: Registrar un nuevo usuario
+- POST /api/auth/login: Iniciar sesión y obtener un token JWT
 
 ---
 
