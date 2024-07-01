@@ -72,15 +72,6 @@ security.jwt.ttlMillis=${JWT_TTL}
 
 ---
 
-## Tecnologías Utilizadas
-- Java
-- Spring Boot
-- PostgreSQL
-- JWT (JSON Web Tokens)
-- Docker y Docker Compose
-
----
-
 ## Uso
 
 Para iniciar la aplicación, asegúrate de tener configurado el entorno y luego ejecuta:
