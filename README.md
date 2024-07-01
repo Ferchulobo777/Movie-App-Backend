@@ -81,8 +81,6 @@ DATABASE_PASSWORD=password_de_tu_base_de_datos
 JWT_SECRET=tu_super_secret_key
 JWT_ISSUER=tu_emisor_de_tokens
 JWT_TTL=tu_tiempo_de_vida_del_token_en_milisegundos
-
-
 ```
 ---
 
