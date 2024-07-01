@@ -98,31 +98,20 @@ La aplicación estará disponible en `http://localhost:8080`.
 
 ## Tecnologías Utilizadas
 
-<p  align="center" style="letter-spacing:60px">
+- Java
+- Spring Boot
+- PostgreSQL
+- JWT (JSON Web Tokens)
+- Docker
+- Docker Compose
+
+<p align="center" style="letter-spacing:150px">
   <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719801444/Logos/java-original_k3fcqr.svg" title="Java" alt="Java" width="50" height="50"/>
   <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719801294/Logos/SpringBoot_e3st46.png" title="Spring Boot" alt="Spring Boot" width="50" height="50"/>
   <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719801318/Logos/postgresql-original_gpliwp.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719802197/Logos/icons8-json-web-token_wy95ni.svg" title="JWT (JSON Web Tokens)" alt="JWT (JSON Web Tokens)" width="50" height="50"/>
   <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719802560/Logos/docker-logo-svgrepo-com_ibjz5d.svg" title="Docker" alt="Docker" width="50" height="50"/>
   <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719802624/Logos/logo_owmjfh.png" title="Docker Compose" alt="Docker Compose" width="50" height="50"/>
-</p>
-<p align="left" style="margin-left:30px; margin-top:-20px">
-Java
-</p>
-<p align="left" style="margin-left:120px; margin-top:-40px">
-Spring Boot
-</p>
-<p align="left" style="margin-left:235px; margin-top:-40px">
-PostgreSQL
-</p>
-<p align="left" style="margin-left:370px; margin-top:-40px">
-JWT
-</p>
-<p align="left" style="margin-left:476px; margin-top:-40px">
-Docker
-</p>
-<p align="left" style="margin-left:575px; margin-top:-40px">
-Compose
 </p>
 
 ---
