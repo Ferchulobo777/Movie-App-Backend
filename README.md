@@ -98,7 +98,9 @@ La aplicación estará disponible en `http://localhost:8080`.
 
 ## Tecnologías Utilizadas
 
-<div style="display: flex; justify-content: center;">
+## Tecnologías Utilizadas
+
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
   <div style="text-align: center; margin: 20px;">
     <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719801444/Logos/java-original_k3fcqr.svg" alt="Java_logo" width="50"/>
     <br>
