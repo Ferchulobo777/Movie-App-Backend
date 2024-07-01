@@ -48,6 +48,7 @@ Para instalar y ejecutar esta aplicación localmente, sigue los siguientes pasos
     ```sh
     docker-compose up --build
     ```
+    
 ## Configuración
 
 ## application.properties
@@ -66,6 +67,9 @@ spring.jpa.hibernate.ddl-auto=update
 security.jwt.secret=${JWT_SECRET}
 security.jwt.issuer=${JWT_ISSUER}
 security.jwt.ttlMillis=${JWT_TTL}
+```
+
+---
 
 ## Tecnologías Utilizadas
 - Java
@@ -73,17 +77,6 @@ security.jwt.ttlMillis=${JWT_TTL}
 - PostgreSQL
 - JWT (JSON Web Tokens)
 - Docker y Docker Compose
-
----
-
-## Tecnologías Utilizadas
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- Bootstrap Icons
-- AOS Animation Scroll
-- Google Fonts
 
 ---
 
