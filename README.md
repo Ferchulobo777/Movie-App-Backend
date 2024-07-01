@@ -105,7 +105,7 @@ La aplicación estará disponible en `http://localhost:8080`.
 - Docker
 - Docker Compose
 
-<p align="center">
+<p align="left">
   <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719801444/Logos/java-original_k3fcqr.svg" title="Java" alt="Java" width="50" height="50" style="margin: 0 30px;"/>
   <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719801294/Logos/SpringBoot_e3st46.png" title="Spring Boot" alt="Spring Boot" width="50" height="50" style="margin: 0 30px;"/>
   <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719801318/Logos/postgresql-original_gpliwp.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50" style="margin: 0 30px;"/>
