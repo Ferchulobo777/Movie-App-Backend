@@ -97,9 +97,10 @@ La aplicación estará disponible en `http://localhost:8080`.
 ---
 
 ## Tecnologías Utilizadas
-- Java
-<p align="center">
-  <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719801444/Logos/java-original_k3fcqr.svg" alt="Java_logo" width="25"/>
+
+-<p align="center">
+  <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719801444/Logos/java-original_k3fcqr.svg" alt="Java_logo" width="50"/>
+  Java
 </p>
 - Spring Boot
 - PostgreSQL
