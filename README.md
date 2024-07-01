@@ -70,6 +70,20 @@ security.jwt.issuer=${JWT_ISSUER}
 security.jwt.ttlMillis=${JWT_TTL}
 ```
 
+## Variables de entorno
+
+Asegúrate de definir las siguientes variables de entorno en tu archivo .env o en tu entorno de despliegue:
+
+```
+DATABASE_URL=jdbc:postgresql://url_de_tu_base_de_datos:5432/nombre_de_tu_base_de_datos
+DATABASE_USERNAME=username_de_tu_base_de_datos
+DATABASE_PASSWORD=password_de_tu_base_de_datos
+JWT_SECRET=tu_super_secret_key
+JWT_ISSUER=tu_emisor_de_tokens
+JWT_TTL=tu_tiempo_de_vida_del_token_en_milisegundos
+
+
+```
 ---
 
 ## Uso
