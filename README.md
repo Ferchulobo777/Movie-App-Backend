@@ -98,7 +98,7 @@ La aplicación estará disponible en `http://localhost:8080`.
 
 ## Tecnologías Utilizadas
 
-<div align="center">
+<div align="inline-block">
 
 <div style="display: inline-block; margin: 20px;">
   <p align="center">
