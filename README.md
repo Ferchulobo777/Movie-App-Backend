@@ -98,6 +98,7 @@ La aplicación estará disponible en `http://localhost:8080`.
 
 ## Tecnologías Utilizadas
 
+<div style="display: inline-block; margin: 0 auto;">
 <p align="center">
   <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719801444/Logos/java-original_k3fcqr.svg" alt="Java_logo" width="50"/><br> Java
 </p>
@@ -116,6 +117,7 @@ La aplicación estará disponible en `http://localhost:8080`.
 <p align="center">
   <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719802624/Logos/logo_owmjfh.png" alt="Docker_compose_logo" width="50"/><br> Docker Compose
 </p>
+</div>
 
 ---
 
