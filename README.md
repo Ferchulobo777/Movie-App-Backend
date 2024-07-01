@@ -97,19 +97,19 @@ La aplicación estará disponible en `http://localhost:8080`.
 ---
 
 <div>
-  <div style="text-align: center; margin: 20px;">
+  <div align="center">
     <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719801444/Logos/java-original_k3fcqr.svg" alt="Java_logo" width="50"/>
     <br>
     Java
   </div>
 
-  <div style="text-align: center; margin: 20px;">
+  <div align="center">
     <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719801294/Logos/SpringBoot_e3st46.png" alt="Spring_Boot_logo" width="50"/>
     <br>
     Spring Boot
   </div>
 
-  <div style="text-align: center; margin: 20px;">
+  <div align="center">
     <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1719801318/Logos/postgresql-original_gpliwp.svg" alt="PostgreSQL_logo" width="50"/>
     <br>
     PostgreSQL
