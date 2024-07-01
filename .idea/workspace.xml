@@ -5,15 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="686dc4e7-62c0-40d9-9cc8-a2d713ba4935" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Movie-App/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Movie-App/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movie-App/target/Movie-App-0.0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Movie-App/target/Movie-App-0.0.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movie-App/target/Movie-App-0.0.1.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/Movie-App/target/Movie-App-0.0.1.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movie-App/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Movie-App/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movie-App/target/Movie-App-0.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movie-App/target/Movie-App-0.0.1.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movie-App/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movie-App/target/classes/com/grupo11/Movie_App/MovieAppApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movie-App/target/classes/com/grupo11/Movie_App/controller/AuthController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movie-App/target/classes/com/grupo11/Movie_App/controller/DirectorController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movie-App/target/classes/com/grupo11/Movie_App/controller/MovieController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movie-App/target/classes/com/grupo11/Movie_App/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movie-App/target/classes/com/grupo11/Movie_App/model/Director.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movie-App/target/classes/com/grupo11/Movie_App/model/Movie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movie-App/target/classes/com/grupo11/Movie_App/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movie-App/target/classes/com/grupo11/Movie_App/repository/DirectorRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movie-App/target/classes/com/grupo11/Movie_App/repository/MovieRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movie-App/target/classes/com/grupo11/Movie_App/repository/UserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movie-App/target/classes/com/grupo11/Movie_App/service/AuthService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movie-App/target/classes/com/grupo11/Movie_App/service/DirectorService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movie-App/target/classes/com/grupo11/Movie_App/service/MovieService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movie-App/target/classes/com/grupo11/Movie_App/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movie-App/target/classes/com/grupo11/Movie_App/utils/JWTUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movie-App/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movie-App/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Movie-App/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movie-App/target/surefire-reports/TEST-com.grupo11.Movie_App.MovieAppApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Movie-App/target/surefire-reports/TEST-com.grupo11.Movie_App.MovieAppApplicationTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movie-App/target/surefire-reports/com.grupo11.Movie_App.MovieAppApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Movie-App/target/surefire-reports/com.grupo11.Movie_App.MovieAppApplicationTests.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/render.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/render.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movie-App/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movie-App/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movie-App/target/surefire-reports/TEST-com.grupo11.Movie_App.MovieAppApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movie-App/target/surefire-reports/com.grupo11.Movie_App.MovieAppApplicationTests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movie-App/target/test-classes/com/grupo11/Movie_App/MovieAppApplicationTests.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,5 +73,32 @@
       <updated>1719783368554</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="3ccb8153-d00c-4407-a02e-f29a324b522c" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="3ccb8153-d00c-4407-a02e-f29a324b522c">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
