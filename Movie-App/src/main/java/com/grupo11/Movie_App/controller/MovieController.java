@@ -12,6 +12,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/movies")
+@CrossOrigin(origins = {"https://ferchulobo777-movie-app.netlify.app", "http://127.0.0.1:5500"})
 public class MovieController {
 
     @Autowired

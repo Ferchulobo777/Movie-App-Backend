@@ -11,6 +11,7 @@ import java.util.Optional;
 
 @RestController
 @RequestMapping("/directors")
+@CrossOrigin(origins = {"https://ferchulobo777-movie-app.netlify.app", "http://127.0.0.1:5500"})
 public class DirectorController {
 
     private final DirectorService directorService;
