@@ -12,7 +12,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/movies")
-@CrossOrigin(origins = "https://ferchulobo777-movie-app.vercel.app")
+@CrossOrigin(origins = "https://ferchulobo777-movie-app.netlify.app")
 public class MovieController {
 
     @Autowired
