@@ -12,7 +12,6 @@ import java.util.Optional;
 
 @RestController
 @RequestMapping("/users")
-@CrossOrigin(origins = "https://ferchulobo777-movie-app.netlify.app")
 public class UserController {
 
     private final UserService userService;
