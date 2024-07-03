@@ -19,7 +19,7 @@ public class MovieAppApplication {
 			@Override
 			public void addCorsMappings(CorsRegistry registry) {
 				registry.addMapping("/**")
-						.allowedOrigins("https://ferchulobo777-movie-app.netlify.app")
+						.allowedOrigins("/**")
 						.allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
 						.allowedHeaders("*")
 						.allowCredentials(true);
