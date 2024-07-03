@@ -11,7 +11,7 @@ import java.util.Optional;
 
 @RestController
 @RequestMapping("/directors")
-@CrossOrigin(origins = "https://ferchulobo777-movie-app.vercel.app/")
+@CrossOrigin(origins = "https://ferchulobo777-movie-app.vercel.app")
 public class DirectorController {
 
     private final DirectorService directorService;
