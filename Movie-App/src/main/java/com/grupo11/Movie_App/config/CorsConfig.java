@@ -1,4 +1,4 @@
-package com.grupo11.Movie_App;
+package com.grupo11.Movie_App.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
